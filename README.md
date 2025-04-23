@@ -32,6 +32,3 @@ UUID                        de04add9-5c68-8bab-950c-08cd5320df18
 VMESS_WSPATH                /vm
 VLESS_WSPATH                /vl
 </code></pre>
-
-# 反馈与交流：
-在使用过程中，如果遇到问题，请使用Telegram与我联系。（ https://t.me/HiaiFeng ）
